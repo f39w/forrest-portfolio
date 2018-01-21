@@ -1,0 +1,24 @@
+{
+  "name": "forrest-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for myself",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f39w/forrest-portfolio.git"
+  },
+  "author": "Forrest Welch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f39w/forrest-portfolio/issues"
+  },
+  "homepage": "https://github.com/f39w/forrest-portfolio#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
